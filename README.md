@@ -46,17 +46,9 @@ This project leverages **MediaPipe Hands** and modern web technologies to transf
 
 ---
 
-## 📂 Project Structure
 
-```
-neon-aura-ar/
-│── index.html
-│── README.md
-```
 
----
 
-## ▶️ Getting Started
 
 ### 1️⃣ Clone the Repository
 
