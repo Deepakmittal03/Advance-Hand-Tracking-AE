@@ -82,22 +82,11 @@ cd neon-aura-ar
 | ✊ Fist        | Reduces spread            |
 | ✋✋ Two Hands  | Advanced interactions     |
 
----
 
-## 📸 Screenshots
-
-> Add your screenshots here for better presentation
-
----
 
 ## 🌐 Live Demo
 
-Enable GitHub Pages:
-
-* Go to **Settings → Pages**
-* Select branch → `main`
-
----
+https://advance-hand-tracking-ae.vercel.app/
 
 ## ⚡ Future Improvements
 
