@@ -93,7 +93,7 @@ https://advance-hand-tracking-ae.vercel.app/
 ## 👨‍💻 Author
 
 **Deepak Mittal**
-B.Tech Computer Science Student | Aspiring Developer
+B.Tech CSE Student | Aspiring Developer
 
 ---
 
