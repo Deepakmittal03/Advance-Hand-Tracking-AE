@@ -14,7 +14,7 @@ This project leverages **MediaPipe Hands** and modern web technologies to transf
 
 ---
 
-## ✨ Features
+## ✨ Features.
 
 * 🖐️ Real-time Hand Tracking
 * ⚡ Gesture Detection (Pinch, Open Hand, Fist)
