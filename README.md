@@ -27,7 +27,7 @@ This project leverages **MediaPipe Hands** and modern web technologies to transf
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack.
 
 * **Frontend:** HTML5, CSS3, JavaScript
 * **AR / ML:** MediaPipe Hands
