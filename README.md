@@ -12,7 +12,7 @@
  
 This project leverages **MediaPipe Hands** and modern web technologies to transform hand gestures into dynamic neon effects, particles, and interactive animations — all running directly in the browser. 
   
---- 
+---  
  
 ## ✨ Features.  
 
